@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Homework 1]( https://shimo.im/docs/wGNQ0JmKHH0Ixo3o).
 
 There should be whitespace between paragraphs.
 
@@ -121,3 +121,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
