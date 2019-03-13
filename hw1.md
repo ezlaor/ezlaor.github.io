@@ -4,11 +4,11 @@ layout: default
 
 # 16341018 HW1.
 
-###1. 软件工程的定义
+一、 软件工程的定义
 
      软件工程是（1）将系统化的、严格约束的、可量化的方法应用于软件的开发、运行和维护，将工程化应用于软件；（2）并且也是在（1）中所述方法的研究。
 
-###2.解释导致 software crisis 本质原因、表现，述说克服软件危机的方法
+二、解释导致 software crisis 本质原因、表现，述说克服软件危机的方法
     
 原因：
        计算机硬件的发展速度远高于软件，大型软件的出现面临开发周期长、费用昂贵、质量难以保证、生产效率低下等问题，其复杂性已经远超过人脑能够控制的范围。软件危机其原因，衔接到硬件的整体复杂度，与软件开发流程，计算机能力越强大，编程越是问题。
@@ -23,14 +23,14 @@ layout: default
    方法：
           一般没有可以完全解决软件危机的方法。软件的本质决定了软件开发的困难，在Brook总结的四个特性基础上（复杂性、一致性、可变性、不可视性） IEEE 强调了 软件工程与其他工程相比的特殊性。软件工程的提出可以一定程度上克服软件危机，并从工程上理解：软件分析不是发现更多的功能与需求，而是确认有效的功能与需求，去伪存真不断满足客户需要。软件设计也不是追求最先进技术，而是控制变化附加的成本，使得软件生产的预算、时间等能在掌控之中。
 
-###3.软件生命周期
+三、软件生命周期
    
 　软件生命周期指 在时间维度，对软件项目任务进行划分，又称为[软件开发过程]( https://www.sebokwiki.org/wiki/Key_Points_a_Systems_Engineer_Needs_to_Know_about_Software_Engineering)。常见有瀑布模型、螺旋模型、敏捷模型等。
 
 >  软件生命周期是指软件的产生直到成熟的全部过程。
 > 软件生命周期模型是指人们为开发更好的软件而归纳总结的软件生命周期的典型实践参考。
 
-###4.SWEBoK 的 15 个知识域[An Overview of the SWEBOK Guide]( https://www.sebokwiki.org/wiki/An_Overview_of_the_SWEBOK_Guide)
+四、SWEBoK 的 15 个知识域[An Overview of the SWEBOK Guide]( https://www.sebokwiki.org/wiki/An_Overview_of_the_SWEBOK_Guide)
    
 Software Engineering Body of Knowledge——软件工程知识体系
        Knowledge Areas Characterizing the Practice of Software Engineering
@@ -97,7 +97,7 @@ Knowledge Areas Characterizing the Educational Requirements of Software Engineer
 　　
    工程基础包括证明工程背景对实际软件工程的必要性。
 　　
-###5.简单解释 CMMI（能力成熟度模型集成） 的五个级别。
+五、简单解释 CMMI（能力成熟度模型集成） 的五个级别。
 
 1.初始级
 
@@ -119,7 +119,7 @@ Knowledge Areas Characterizing the Educational Requirements of Software Engineer
 
  过程的量化反馈和先进的新思想、新技术促使过程持续不断改进。
 
-###6.用自己语言简述 SWEBok 或 CMMI （约200字）
+六、用自己语言简述 SWEBok 或 CMMI （约200字）
 　
 　SWEBoK 不合适度量一个企业的软件工程能力。出于成本的因素，企业在不同阶段难以完全遵循软件工程规范去做事。2-3人的集合和百人以上的公司评价标准不应该相同，能力成熟度模型的五个级别可以很好地概括这之间的差异。
 软件能力成熟度模型（通过使用知识（能力）的不同，用不同级别表示开发企业的成熟性，不仅给出了企业能力提升的路径，也给出了企业能力评估的事实标准。出于成本的考虑使用CMMI的情境要多一些。
