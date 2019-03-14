@@ -15,7 +15,7 @@ layout: default
 
 * **3.简述 UML（统一建模语言）的作用。考试考哪些图？**
 
-       [参考链接：UML basics: An introduction to the Unified Modeling Language](https://www.ibm.com/developerworks/rational/library/769.html)
+[参考链接：UML basics: An introduction to the Unified Modeling Language](https://www.ibm.com/developerworks/rational/library/769.html)
 　
 　　  统一建模语言 （Unified Modeling Language，UML）是描述、构造和文档化系统制品的可视化语言，UML的本意是要成为一种标准的统一语言，使得IT专业人员能够进行计算机应用程序的建模。UML不是一种方法学，它不需要任何正式的工作产品（即IBM Rational Unified Process术语中所定义的"工件"）。而且它还提供了多种类型的模型描述图（diagram，当在某种给定的方法学中使用这些图时，它使得开发中的应用程序的更易理解。
 
@@ -36,7 +36,8 @@ layout: default
 * **4.从软件本质的角度，解释软件范围（需求）控制的可行性**
      
 　　　软件的本质特性以及软件需求的易变性所可能带来的潜在的巨大风险意味着完全控制软件范围是一件几乎不可能的事情，但我们必须在一定程度上控制软件范围。
-　　  软件分析的目的不是找出所有的需求并完善而是确认有效的功能与需求，去伪存真不断满足客户需要。软件设计也不是追求最先进技术，而是控制变化附加的成本，使得软件生产的预算、时间等能在掌控之中。
+　　  
+　　　软件分析的目的不是找出所有的需求并完善而是确认有效的功能与需求，去伪存真不断满足客户需要。软件设计也不是追求最先进技术，而是控制变化附加的成本，使得软件生产的预算、时间等能在掌控之中。
 
 ## 二、项目管理实践
 
