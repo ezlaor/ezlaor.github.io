@@ -42,8 +42,9 @@ layout: default
 
 四、SWEBoK 的 15 个知识域[An Overview of the SWEBOK Guide]( https://www.sebokwiki.org/wiki/An_Overview_of_the_SWEBOK_Guide) 
    
-Software Engineering Body of Knowledge——软件工程知识体系
-       *Knowledge Areas Characterizing the Practice of Software Engineering
+　　　　Software Engineering Body of Knowledge——软件工程知识体系
+       
+　　* **Knowledge Areas Characterizing the Practice of Software Engineering**
 
 1. Software Requirements--软件需求
     
