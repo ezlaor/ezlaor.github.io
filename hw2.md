@@ -41,7 +41,7 @@ layout: default
 ## 二、项目管理实践
    * **UML绘图工具练习（提交贴图，必须使用 UMLet）**
       
-![UMLet类图]( image/umlet3.png)
+　　　　![UMLet类图]( image/umlet3.png)
 UMLet类图，参考UML和模式应用（原书第三版）第7页第一章图1-5 局部设计类图
       
-![UMLet类图]( image/umlet1.png)
+　　　　![UMLet类图]( image/umlet1.png)
