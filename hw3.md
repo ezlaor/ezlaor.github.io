@@ -5,9 +5,9 @@ layout: default
 
 ## 一、简答题
 　1.简述瀑布模型、增量模型、螺旋模型（含原型方法）的优缺点
-　    *从项目特点、风险特征、人力资源利用角度思考
+　      * **从项目特点、风险特征、人力资源利用角度思考**
     
-[瀑布模型]( https://en.wikipedia.org/wiki/Waterfall_model)
+　　　[瀑布模型]( https://en.wikipedia.org/wiki/Waterfall_model)
 　 
 -优点：  
      -降低软件开发的复杂程度，提高软件开发过程的透明性，提高
@@ -22,7 +22,7 @@ layout: default
    -瀑布模型中的软件活动是文档驱动的，当阶段之间规定过多的文档时，会极大地增加系统的工作量。
    -管理人员如果仅仅以文档的完成情况来评估项目完成进度，往往会产生错误的结论
 
- [增量模型]( https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
+　　　[增量模型]( https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
  
  -优点：
      -增强客户对系统的信心；
@@ -34,7 +34,7 @@ layout: default
      -建立初始模型时，作为增量基础的基本业务服务的确定有一定难度；
    -增量粒度难以选择
 
-[螺旋模型]( https://en.wikipedia.org/wiki/Spiral_model)
+　　[螺旋模型]( https://en.wikipedia.org/wiki/Spiral_model)
   
 -优点：
      -强调可选方案和约束条件从而支持软件的重用，有助于将软件质量作为特殊目标融入产品开发之中。
@@ -48,9 +48,9 @@ layout: default
 
 3.简述统一过程三大特点，与面向对象的方法有什么关系？
 　
-　　　
 　　[RUP](https://en.wikipedia.org/wiki/Rational_Unified_Process) (Rational Unified Process) 是一种基于 UML 的、以构架为中心、用例驱动与风险驱动相结合的迭代增量过程。它将软件开发过程要素和软件工件要素整合在统一的软件工程框架中，是一个面向对象的程序开发方法论。
 　
+
 4.简述统一过程四个阶段的划分准则是什么？每个阶段关键的里程碑是什么？
 　   
 　　* **RUP 中的软件生命周期在时间维度上被分解为四个顺序的阶段：**
@@ -63,8 +63,10 @@ layout: default
 >
 >产品交付阶段 (Transition)
 　
-　![四个顺序的阶段]( image/4phase.png)
+  
+　 ![四个顺序的阶段]( image/4phase.png)
 　
+　　
 　　* **初始阶段 (Inception)里程碑：**
       
 　　　生命周期目标 (Lifecycle Objective) 里程碑，包括一些重要的文档，如：项目构想 (Vision)、原始用例模型、原始业务风险评估、一个或者多个原型、原始业务案例等。通过对文档的评审确定用例需求理解正确、项目风险评估合理、阶段计划可行等。
