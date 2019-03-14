@@ -37,7 +37,7 @@ layout: default
 >  软件生命周期是指软件的产生直到成熟的全部过程。
 > 软件生命周期模型是指人们为开发更好的软件而归纳总结的软件生命周期的典型实践参考。
 
-* **四、SWEBoK 的 15 个知识域** [An Overview of the SWEBOK Guide]( https://www.sebokwiki.org/wiki/An_Overview_of_the_SWEBOK_Guide) 
+四、SWEBoK 的 15 个知识域[An Overview of the SWEBOK Guide]( https://www.sebokwiki.org/wiki/An_Overview_of_the_SWEBOK_Guide) 
    
 Software Engineering Body of Knowledge——软件工程知识体系
        Knowledge Areas Characterizing the Practice of Software Engineering
