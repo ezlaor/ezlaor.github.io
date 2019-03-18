@@ -45,3 +45,10 @@ layout: default
 UMLet类图，参考UML和模式应用（原书第三版）第7页第一章图1-5 局部设计类图
       
 　　　　![UMLet类图]( image/umlet1.png)
+
+* **看板**
+
+![kanbord]( image/kanbord1.png)
+
+![kanbord]( image/kanbord2.png)
+
