@@ -48,7 +48,7 @@ UMLet类图，参考UML和模式应用（原书第三版）第7页第一章图1-
 
 * **看板**
 
-![kanbord]( image/kanbord1.png)
+![kanbord]( image/kanbord.png)
 
-![kanbord]( image/kanbord2.png)
+![kanbord]( image/kanborde.png)
 
