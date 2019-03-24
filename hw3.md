@@ -7,7 +7,8 @@ layout: default
 **1.简述瀑布模型、增量模型、螺旋模型（含原型方法）的优缺点**
 　      
 　　 **从项目特点、风险特征、人力资源利用角度思考**
- [瀑布模型]( https://en.wikipedia.org/wiki/Waterfall_model)
+   
+[瀑布模型]( https://en.wikipedia.org/wiki/Waterfall_model)
 * **优点：** 
    * 降低软件开发的复杂程度，提高软件开发过程的透明性、提高软件开发过程的可管理性。
    * 推迟软件实现，强调在软件实现前必须进行分析和设计工作。
@@ -20,7 +21,8 @@ layout: default
    * 瀑布模型中的软件活动是文档驱动的，当阶段之间规定过多的文档时，会极大地增加系统的工作量。
    * 管理人员如果仅仅以文档的完成情况来评估项目完成进度，往往会产生错误的结论
 
-　　　
+
+
 [增量模型]( https://en.wikipedia.org/wiki/Iterative_and_incremental_development) 
 * **优点：**
    * 增强客户对系统的信心；
@@ -33,7 +35,6 @@ layout: default
    * 增量粒度难以选择
 
 [螺旋模型]( https://en.wikipedia.org/wiki/Spiral_model) 
-  
 * **优点：**
    * 强调可选方案和约束条件从而支持软件的重用，有助于将软件质量作为特殊目标融入产品开发之中。
    * 螺旋模型结合了瀑布模型和快速原型方法，将瀑布模型的多个阶段转化到多个迭代过程中，以降低项目的风险
