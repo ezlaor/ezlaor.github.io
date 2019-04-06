@@ -9,3 +9,5 @@ layout: default
 
 [Homework 3]( ./hw3.html).
 
+[Homework 4]( ./hw4.html).
+
