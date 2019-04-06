@@ -39,7 +39,8 @@ layout: default
  
 **6.用例图的基本符号与元素？**
  * 用例图包括参与者(Actor)、用例(Use case)、关联关系(Association)、包含关系（Include）、拓展关系(Extend)和泛化关系(Generalization)
- 
+    [!use](/use.png)
+    
 **7.用例图的画法与步骤**
 
 **8.用例图给利益相关人与开发者的价值有哪些？**
