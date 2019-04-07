@@ -81,7 +81,7 @@ layout: default
    *    相似系统面对相似的参与者和相似的需求与架构设计，其产生的场景和用例大部分都有相近之处。有些系统所依赖的子系统也是业界通用的。
           
    **2.如果是定旅馆业务，请对比 [Asg_RH](https://sysu-swsad.github.io/swad-guide/material/Asg_RH.pdf) 用例图，简述如何利用不同时代、不同地区产品的用例图，展现、突出创新业务和技术**
-      ### Asg_RH用例图
+   ### Asg_RH用例图
       ![use-case]( image/use-case.png)
         
    **3.如何利用用例图定位创新思路（业务创新、或技术创新、或商业模式创新）在系统中的作用**
