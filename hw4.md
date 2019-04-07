@@ -72,6 +72,7 @@ layout: default
    ### 用例图练习：
          
      ![us-case]( image/us-case.png)
+         出行用例图
 
   #### 然后，回答下列问题：
   
