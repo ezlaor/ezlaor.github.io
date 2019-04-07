@@ -66,12 +66,14 @@ layout: default
       * 请使用用户的视角，描述用户目标或系统提供的服务
       * 粒度达到子用例级别，并用 include 和 extend 关联它们
       * 请用色彩标注出你认为创新（区别于竞争对手的）用例或子用例
-      * 尽可能识别外部系统和服务
-                             ![app]( image/app.png)
+      * 尽可能识别外部系统和服务 
+      
+      ![app]( image/app.png)
                            [携程网](https://www.ctrip.com/?sid=155952&allianceid=4897&ouid=index)
           
    ### 用例图练习：
-       
+         
+     ![us-case]( image/us-case.png)
 
       
 
