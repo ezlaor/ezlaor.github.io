@@ -80,7 +80,7 @@ layout: default
        
    *    相似系统面对相似的参与者和相似的需求与架构设计，其产生的场景和用例大部分都有相近之处。有些系统所依赖的子系统也是业界通用的。
           
-   **2.如果是定旅馆业务，请对比 Asg_RH 用例图，简述如何利用不同时代、不同地区产品的用例图，展现、突出创新业务和技术**
+   **2.如果是定旅馆业务，请对比 [Asg_RH](https://sysu-swsad.github.io/swad-guide/material/Asg_RH.pdf) 用例图，简述如何利用不同时代、不同地区产品的用例图，展现、突出创新业务和技术**
       ### Asg_RH用例图
       ![use-case]( image/use-case.png)
         
@@ -90,7 +90,10 @@ layout: default
           
       |ID     |Title       |Est      |Iter      |Imp     |
       |:------|:-----------|:--------|:---------|:-------|
-      |       |            |2        |1         |5       |
+      |       |            |         |          |        |
+      |       |            |         |          |        |
+      |       |            |         |          |        |
+      |       |            |         |          |        |
           
    **5.根据任务4，参考[使用用例点估算软件成本](https://www.ibm.com/developerworks/cn/rational/edge/09/mar09/collaris_dekker/index.html)，给出项目用例点的估算**
 
