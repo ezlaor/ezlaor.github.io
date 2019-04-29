@@ -3,13 +3,13 @@ layout: default
 ---
 
 
-[Homework 1]( ./hw1.html).
+[Week 1]( ./hw1.html).
 
-[Homework 2]( ./hw2.html).
+[Week 2]( ./hw2.html).
 
-[Homework 3]( ./hw3.html).
+[Week 3]( ./hw3.html).
 
-[Homework 4]( ./hw4.html).
+[Week 6]( ./hw4.html).
 
-[Homework 5]( ./hw4.html).
+[Week 7]( ./hw5.html).
 
