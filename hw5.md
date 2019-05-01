@@ -19,13 +19,17 @@
      ![image3](/image/squence1.png)
   
   * 业务二
-  
+     ![image4](/image/squence2.png)
+     
   * 业务三
-
+     ![image5](/image/squence3.png)
+     
 * 根据上述流程，给出快递柜系统最终的用例图模型
 >
 >  用正常色彩表示第一个业务流程反映的用例
->
+>    ![image6](/image/use-case11.png)
+
 >  用绿色背景表述第二个业务场景添加或修改的用例，以及支持 Actor
 >
 >  用黄色背景表述第三个业务场景添加或修改的用例，以及支持 Actor
+
