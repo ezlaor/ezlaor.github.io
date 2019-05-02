@@ -13,3 +13,5 @@ layout: default
 
 [Week 7]( ./hw5.html).
 
+[Week 9]( ./hw6.html).
+
