@@ -14,9 +14,11 @@
 >Hotel（ID/Key，Name，LoctionID/Fkey，Address…..）
 
 * Make Reservation
-[image1](/image/domian1.png)
+
+![image1](/image/domain1.png)
   
 * Payment
+
 ![image2](/image/domain2.png)
 
 ### 2、使用 UML State Model，对每个订单对象生命周期建模
