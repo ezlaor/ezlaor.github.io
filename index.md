@@ -15,3 +15,5 @@ layout: default
 
 [Week 9]( ./hw6.html).
 
+## [期末技术报告](./report.md)
+
